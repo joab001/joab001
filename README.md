@@ -1,6 +1,5 @@
-# 💫 About Me:
-olá meu nome é joab vitor
-
+# 💫 sobre mim:
+Olá meu nome é joab vitor sou uma 
 
 ## 🌐 Essas são minhas redes sociais: 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/joab_sx) 
@@ -25,8 +24,3 @@ olá meu nome é joab vitor
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=joab001&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=joab001&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
