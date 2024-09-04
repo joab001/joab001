@@ -1,5 +1,5 @@
 # 💫 sobre mim:
-Olá meu nome é joab vitor, tenho 29 anos e atualmente estou estudando desenvolvimento web.
+Olá meu nome é joab vitor, tenho 30 anos e atualmente estou estudando desenvolvimento web.
 
 ## 🌐 Essas são minhas redes sociais: 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/joab_sx) 
